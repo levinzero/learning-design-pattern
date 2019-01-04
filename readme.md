@@ -7,3 +7,6 @@
 2. inheritance.js 类式继承以及原型继承
 3. singleton.js 单例、懒惰加载单例、单例中的分支(branch)
 4. chainingCall.js 链式调用，简单模仿Jquery的实现方式
+
+## 设计模式知识部分
+正在学习中....
